@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Manager</string>
+
+
+    <string name="Message_Welcome">Bienvenido</string>
+    <string name="Message_Login_Text">Ingresa tus credenciales</string>
+    <string name="InsertUser">Ingrese su usuario</string>
+    <string name="InsertPass">Ingrese su contraseña</string>
+    <string name="Switch">Mostrar contraseña</string>
+    <string name="StartLogin">Login</string>
+    <string name="TxtResetPass">Restablecer contraseña</string>
+
+    //Menu de opciones
+    <string name="Message_Options">Este es tu menú de opciones</string>
+    <string name="BtnConsultSales">Consultar Venta</string>
+    <string name="BtnConsultProvider">Consultar Proveedor</string>
+    <string name="BtnProductReport">Consultar Producto</string>
+    <string name="BtnAddProduct">Registrar Producto</string>
+    <string name="BtnLogOut">Cerrar sesión</string>
+    <string name="ImageLogin">Esta es una imagen de un usuario para hacer login.</string>
+
+
+    <string name="TxtBoxNombreProductoView">Nombre del producto: </string>
+    <string name="TxtBoxDescripcionProducto">Descripción: </string>
+    <string name="TxtBoxStock">Stock: </string>
+
+    <string name="TxtAlgo">Example</string>
+    <string name="TxtSell">Realizar Venta</string>
+    <string name="TxtProductReport">Reporte De Producto</string>
+    <string name="TxtRegisterProduct">Registrar Producto</string>
+    <string name="TxtMyAccount">Mi Cuenta</string>
+    <string name="TxtConfiguration">Configuración</string>
+
+
+    //Strings de la pantalla consultar productos
+    <string name="BtnScan">Escanear</string>
+    <string name="BtnBuscar">Buscar</string>
+    <string name="BtnEliminar">Eliminar</string>
+    <string name="BtnRegisterProduct">Registrar Producto</string>
+
+    <string name="BtnRegistrar">Registrar</string>
+
+    //Strings de my account
+    <string name="LblMiCuenta">Mi Cuenta</string>
+    <string name="LblNombre">Nombre:</string>
+    <string name="LblDireccion">Dirección:</string>
+    <string name="LblEmail">Email:</string>
+    <string name="LblCelular">Celular:</string>
+    <string name="LblRol">Rol:</string>
+    <string name="BtnActualizarInfo">Actualizar Información</string>
+    <string name="BtnEliminarCuenta">Eliminar Cuenta</string>
+
+    //Strings de la pantalla reset password
+    <string name="TxtWReset">Restablecer Contraseña</string>
+    <string name="TxtInstructions">Para restablecer su contraseña necesitamos que ingrese su nombre de usuario en la caja de texto.</string>
+    <string name="BtnResetPassword">Enviar Instrucciones</string>
+
+    //Strings para la pantalla de consultar proveedor
+    <string name="BtnRegisterProvider">Registrar Proveedor</string>
+    <string name="LblConsultProvider">Consultar Proveedor</string>
+    <string name="TxtIdProveedor">ID DEL PROVEEDOR:</string>
+    <string name="TxtNombreProveedor">NOMBRE DEL PROVEEDOR:</string>
+    <string name="TxtDescripcionProveedor">DESCRIPCIÓN:</string>
+
+    //Strings para la pantalla de registrar proveedor
+    <string name="LblWRegisterProvider">Registrar Proveedor</string>
+
+
+    //Strings para la pantalla de consultar venta
+    <string name="LblConsultSales">Consultar Venta</string>
+    <string name="BtnConsultarVenta">Consultar</string>
+</resources>
